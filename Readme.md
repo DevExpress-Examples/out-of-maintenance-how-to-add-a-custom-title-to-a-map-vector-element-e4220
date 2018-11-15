@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/DXMap_UseTitleOptions/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/DXMap_UseTitleOptions/MainWindow.xaml))
+<!-- default file list end -->
 # How to add a custom title to a map vector element
 
 
