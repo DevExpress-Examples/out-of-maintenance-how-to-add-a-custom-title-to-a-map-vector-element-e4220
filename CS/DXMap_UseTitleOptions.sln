@@ -1,5 +1,5 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DXMap_UseTitleOptions", "DXMap_UseTitleOptions\DXMap_UseTitleOptions.csproj", "{6B25DB47-83F6-4C10-8D04-0405518E85D7}"
 EndProject
 Global
